@@ -131,4 +131,16 @@ a{
     border: 1px solid black;
     width: 328px;
     height: 200px;
+    position: relative;
+    top: 85px;
+    left: 325px;
+}
+
+#columnright{
+    border: 1px solid black;
+    width: 512px;
+    height: 250px;
+    position: relative;
+    bottom: 117px;
+    left: 663px;
 }
